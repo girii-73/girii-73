@@ -3,7 +3,7 @@
 <h1 align="center">Hello, Giriprasad Here</h1>
 
 <h2 align ="center">
-    <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&weight=500&pause=1000&width=435&lines=Hello+there+;I'm+Giriprasad+!;Full+Stack+%26+ROS+Developer;OSS+Einthusiast)](https://git.io/typing-svg)>
+    <img src=https://readme-typing-svg.herokuapp.com?font=Jost&weight=500&pause=1000&width=435&lines=Hello+there+;I'm+Giriprasad+!;Full+Stack+%26+ROS+Developer;OSS+Einthusiast>
 </h2>
 
 <br/>
@@ -43,8 +43,9 @@ Tech Stack
 ---
 
 
+<h2 align="center">Connect With Me</h2>
+
 <div align="center">
-    Contact Here:
   <a href="mailto:giriprasad1104@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
