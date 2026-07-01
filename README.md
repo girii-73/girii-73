@@ -3,7 +3,7 @@
 <h1 align="center">Hello, Giriprasad Here</h1>
 
 <h2 align ="center">
-    <img src=https://readme-typing-svg.herokuapp.com?font=Jost&weight=500&pause=1000&width=435&lines=Hello+there+I'm+Giriprasad+!;Full+Stack+%26+ROS+Developer;OSS+Einthusiast>
+    <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&weight=500&pause=1000&width=435&lines=Hello+there+;I'm+Giriprasad+!;Full+Stack+%26+ROS+Developer;OSS+Einthusiast)](https://git.io/typing-svg)>
 </h2>
 
 <br/>
@@ -34,17 +34,17 @@ I am an aspiring <b>Information Technology </b>undergrad, with a growing interes
 
 Tech Stack
 
-</h3>
-
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=ae,js,html,py,css,arduino,cpp,docker,linux,react,ros,supabase)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,js,html,py,css,arduino,cpp,docker,linux,react,ros,supabase" />
+  </a>
 <br/>
 
 ---
 
 
-<div align="left">
+<div align="center">
+    Contact Here:
   <a href="mailto:giriprasad1104@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
