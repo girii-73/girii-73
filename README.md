@@ -2,12 +2,6 @@
 
 <h1 align="center">Hello, Giriprasad Here</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=500&pause=1000&width=435&lines=Hello+there+;I'm+Giriprasad+!;Full+Stack+%26+ROS+Developer;OSS+Einthusiast" />
-</div>
-
-<br/>
-
 <p align="center">
   Sophomore at <b>Sairam Instituitions</b><br>
   Passionate about OSS and exploring Robotics Operating systems with OpenCV and Linux
