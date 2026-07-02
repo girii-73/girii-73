@@ -11,7 +11,7 @@
 
 <h2>About Me :</h2>
 
-<p>
+<p align="center">
 I am an aspiring <b>Information Technology</b> undergrad, with a growing interest in <b>Cyber Security</b>. Currently in my learning phase, I enjoy exploring tech, AI, Communities.
 </p>
 
